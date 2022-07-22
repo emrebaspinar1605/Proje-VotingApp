@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\bin\Debug\net6.0\Proje-VotingApp.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\bin\Debug\net6.0\Proje-VotingApp.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\bin\Debug\net6.0\Proje-VotingApp.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\bin\Debug\net6.0\Proje-VotingApp.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\bin\Debug\net6.0\Proje-VotingApp.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\refint\Proje-VotingApp.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\Proje-VotingApp.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-VotingApp\obj\Debug\net6.0\ref\Proje-VotingApp.dll
